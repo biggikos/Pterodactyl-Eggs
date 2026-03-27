@@ -10,6 +10,7 @@
     "description": "A Discord bot written in Python using discord.py\r\n\r\nhttps:\/\/github.com\/Ispira\/pixel-bot",
     "features": null,
     "images": [
+        "ghcr.io\/parkervcp\/yolks:python_3.12",
         "ghcr.io\/parkervcp\/yolks:python_3.10",
         "ghcr.io\/parkervcp\/yolks:python_3.9",
         "ghcr.io\/parkervcp\/yolks:python_3.8",
